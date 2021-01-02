@@ -1,0 +1,66 @@
+{
+	"userData": {
+		"_id": "5fe4d386108abe0d99324915",
+		"index": 0,
+		"guid": "de413a4d-37c4-43d9-aebd-5d69485f02ef",
+		"isActive": true,
+		"balance": "$1,199.73",
+		"smallPicture": "http://placehold.it/32x32",
+		"bigPicture": "http://placehold.it/128x128",
+		"age": 35,
+		"eyeColor": "#cc0000",
+		"name": {
+			"first": "Estes",
+			"last": "Woods"
+		},
+		"company": "ZAPPIX",
+		"email": "estes.woods@zappix.info",
+		"phone": "+1 (969) 476-3696",
+		"address": "615 Hawthorne Street, Balm, Puerto Rico, 7138",
+		"about": "Mollit velit Lorem incididunt magna elit. Nostrud mollit in magna ullamco dolore reprehenderit consequat dolor do officia sint irure nisi nisi. Laboris laboris sunt cillum mollit officia. Minim dolor et deserunt consequat laborum quis occaecat. Eiusmod ea laboris Lorem ullamco id laborum. Do cillum elit exercitation aliqua.",
+		"registered": "Friday, February 7, 2020 4:05 AM",
+		"latitude": "-25.078258",
+		"longitude": "-105.805519",
+		"tags": [
+			"ea",
+			"adipisicing",
+			"ad",
+			"ipsum",
+			"sit"
+		],
+		"friends": [
+			{
+				"id": 0,
+				"name": "Deena Strickland",
+				"color": "#1235aa"
+			},
+			{
+				"id": 1,
+				"name": "Holmes Sullivan",
+				"color": "#12aa35"
+			},
+			{
+				"id": 2,
+				"name": "Eliza Cole",
+				"color": "#aa1235"
+			},
+			{
+				"id": 3,
+				"name": "Selma Lynch",
+				"color": "#aa12aa"
+			},
+			{
+				"id": 4,
+				"name": "Palmer Burton",
+				"color": "#12aaaa"
+			},
+			{
+				"id": 5,
+				"name": "Juana Petty",
+				"color": "rgb(88,88,0)"
+			}
+		],
+		"greeting": "Hello, Estes! You have 9 unread messages.",
+		"favoriteFruit": "apple"
+	}
+}
